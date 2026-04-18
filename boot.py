@@ -5,8 +5,8 @@ import time
 # ============================================
 #       WiFi Configuration
 # ============================================
-WIFI_SSID = "Digipodium_4G"         # <-- Replace with your WiFi name
-WIFI_PASSWORD = "digipod@123"  # <-- Replace with your WiFi password
+WIFI_SSID = "xiaomi"         # <-- Replace with your WiFi name
+WIFI_PASSWORD = "12344567"  # <-- Replace with your WiFi password
 
 wifi_connected = False
 
