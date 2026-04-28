@@ -11,7 +11,7 @@ import dht
 # AIO_USERNAME = "triple_m"
 # AIO_KEY      = "aio_ekcg26P4h0Ej8ObLbd3akHB2VNiE"
 AIO_USERNAME = "amanpandya77"
-AIO_KEY      = "aio_eHNJ67U9iD14zk3t4oUEb2T8pwU3"
+AIO_KEY      = "aio_dPYj26TU4AhKmDnMrMzEkLih9kGy"
 
 AIO_SERVER   = "io.adafruit.com"
 CLIENT_ID    = "esp32_home_auto"

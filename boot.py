@@ -5,8 +5,8 @@ import time
 # ============================================
 #       WiFi Configuration
 # ============================================
-WIFI_SSID = "xiaomi"         # <-- Replace with your WiFi name
-WIFI_PASSWORD = "12344567"  # <-- Replace with your WiFi password
+WIFI_SSID = "hood hogan"         # <-- Replace with your WiFi name
+WIFI_PASSWORD = "1qa2ws3ed4rf"  # <-- Replace with your WiFi password
 
 wifi_connected = False
 
